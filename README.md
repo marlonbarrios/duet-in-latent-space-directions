@@ -1,4 +1,4 @@
-# What to install before workshop session
+# What to install before workshop session wuth Marlon Barrios Solano
 
 ## Tech Prerequisites
 
@@ -99,11 +99,13 @@ If your app connects with `fal.ai`, ensure that API keys or other secure element
 
 ## API keys:
 
-You will need an apy ket top connect remtely to the models and  suggest getting your own in the platforms for my sessions:
+You will need an API key to connect to the models. I suggest getting your own in the platforms for my sessions:
 
 https://replicate.com/
 
+https://fal.ai/
+
 https://huggingface.co/
 
-https://fal.ai/
+
 
