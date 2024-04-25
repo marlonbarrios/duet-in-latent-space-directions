@@ -17,21 +17,33 @@ Install these from the Extensions view in VS Code (`Ctrl+Shift+X`) by searching 
 To install Visual Studio Code (VSCode) extensions on both macOS and Windows, you can follow a similar process as the user interface and functionalities of VSCode are consistent across these platforms. Here’s a step-by-step guide to help you install extensions:
 
 Step-by-Step Guide to Install VSCode Extensions
+
 Step 1: Open Visual Studio Code
+
 macOS: You can open it from the Applications folder, Launchpad, or using the Spotlight search.
+
 Windows: You can open it from the Start menu or by searching for it in the search bar.
+
 Step 2: Access the Extensions View
+
 On the sidebar on the left-hand side of the VSCode window, click on the square icon (Extensions View icon), or you can press Ctrl+Shift+X on Windows or Cmd+Shift+X on macOS to open the Extensions view.
+
 Step 3: Search for the Extension
+
 In the Extensions view, there is a search bar at the top. Type the name of the extension you want to install. For instance, if you're looking for Python support, you might type "Python".
+
 Step 4: Install the Extension
+
 Once you find the extension in the search results, click on the green Install button associated with the extension. Some popular extensions include Python by Microsoft, ESLint, Prettier, or Live Server.
+
 Step 5: Verify or Manage Extension Settings
-After installation, some extensions might require additional configuration or settings adjustments. Usually
-, you can manage these settings by going to the gear icon next to the installed extension in the Extensions view or by accessing the global settings:
+
+After installation, some extensions might require additional configuration or settings adjustments. Usually , you can manage these settings by going to the gear icon next to the installed extension in the Extensions view or by accessing the global settings:
 
 Windows: Use the shortcut Ctrl + ,
+
 macOS: Use the shortcut Cmd + ,
+
 You can then search for the extension settings by typing the extension name in the search bar at the top of the Settings tab.
 
 Step 6: Reload if Necessary
