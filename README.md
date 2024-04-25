@@ -1,4 +1,4 @@
-# What to install before workshop session wuth Marlon Barrios Solano
+# What to install before workshop session with Marlon Barrios Solano
 
 ## Tech Prerequisites
 
