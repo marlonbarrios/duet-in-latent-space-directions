@@ -74,7 +74,11 @@ By following these steps, you can effectively manage your VSCode extensions on b
 
 ## Installation of project from repository
 
-To set up your local development environment, follow these steps:
+Important: To download or clone a repository from GitHub, you technically don't need to have a GitHub account. You can directly download the contents of a public repository as a ZIP file from the GitHub website without logging in. Similarly, you can clone public repositories using Git commands in your terminal without a GitHub account.
+
+However, if you want to interact with the repository more deeply—such as forking it (creating your own copy on GitHub), submitting changes via pull requests, or managing issues—you would need to create a GitHub account. Additionally, to clone or interact with private repositories, you must have a GitHub account and the necessary permissions to access that repository.
+
+### To set up your local development environment, follow these steps:
 
 1. **Clone the repository**: ( I will give you repo url)
 2. git clone https://your-repository-link.git
